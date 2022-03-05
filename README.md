@@ -3,4 +3,4 @@
 
 
 basic brith day app with imgview and textview
-***android dev path starts from here 😎
+***android dev path starts from here 😎***
